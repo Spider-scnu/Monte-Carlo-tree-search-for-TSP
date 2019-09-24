@@ -7,7 +7,6 @@ If you want to get more details, please see our paper [XXXXX](https://github.com
 ### Dependencies
 
 * gcc >= 4.8.5
-* jupyter notebook
 
 ### Quick start
 
