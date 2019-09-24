@@ -1,0 +1,51 @@
+38
+data/eil51.tsp             426
+data/berlin52.tsp       7542
+data/st70.tsp             675
+data/eil76.tsp            538
+data/pr76.tsp            108159
+data/rat99.tsp           1211
+data/kroA100.tsp      21282
+data/kroB100.tsp      22141
+data/kroC100.tsp      20749
+data/kroD100.tsp      21294
+data/kroE100.tsp      22068
+data/rd100.tsp         7910
+data/eil101.tsp         629				
+data/lin105.tsp        14379
+data/pr107.tsp         44303
+data/pr124.tsp        59030
+data/bier127.tsp     118282
+data/ch130.tsp        6110
+data/pr136.tsp        96772
+data/pr144.tsp        58537
+data/ch150.tsp        6528
+data/kroA150.tsp    26524
+data/kroB150.tsp    26130
+data/pr152.tsp        73682
+data/u159.tsp         42080
+data/rat195.tsp       2323
+data/d198.tsp         15780
+data/kroA200.tsp    29368
+data/kroB200.tsp    29437
+data/ts225.tsp        126643
+data/tsp225.tsp       3916
+data/pr226.tsp        80369
+data/gil262.tsp        2378
+data/pr264.tsp        49135
+data/a280.tsp         2579
+data/pr299.tsp       48191
+data/lin318.tsp       42029
+data/linhp318.tsp    41345
+
+
+
+
+
+
+
+
+
+
+
+
