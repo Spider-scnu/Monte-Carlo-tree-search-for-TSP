@@ -7,6 +7,7 @@ If you want to get more details, please see our paper **Targeted sampling of enl
 ### Dependencies
 
 * gcc >= 4.8.5
+* Linux
 
 ### Quick start
 
@@ -37,11 +38,11 @@ cd TSP-20-50-100
 bash solve-20.sh 32
 ```
 
-By the way, our multi-threading schemes only apply in **TSP-20-50-100** dataset, not in **TSPLib** instances. In addition, others shells could be found respectively in `TSP-20-50-100` and `TSPLib`. 
+By the way, our multi-threading schemes only apply in **TSP-20-50-100** dataset, not **TSPLib** instances. In addition, other shells could be found respectively in `TSP-20-50-100` and `TSPLib`. 
 
 #### Acknowledgements
 
 * `./TSP-20-50-100/solve-20.sh` is assigned to solve [TSP-20-50-100](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view) instances with 20 nodes;
 * `./TSP-20-50-100/solve-50.sh` is assigned to solve [TSP-20-50-100](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view) instances with 50 nodes;
 * `./TSP-20-50-100/solve-100.sh` is assigned to solve [TSP-20-50-100](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view) instances with 100 nodes;
-* `./TSPLib/solve-TSPLib.sh` is assigned to solve [TSPLib](https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95) instances.
+* `./TSPLib/solve-tsplib.sh` is assigned to solve [TSPLib](https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95) instances.
