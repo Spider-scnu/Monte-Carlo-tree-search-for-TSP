@@ -25,8 +25,8 @@ bash solve-20.sh 32
 
 Our model are tested on two datasets respectively, **TSP-20-50-100** and **TSPLib** which could be downloaded from:
 
-* [TSP-20-50-100-download-link](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view)
-* [TSPLib-download-link](https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95)
+* [TSP-20-50-100-downloading-link](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view)
+* [TSPLib-downloading-link](https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95)
 
 #### Multi-threads
 
