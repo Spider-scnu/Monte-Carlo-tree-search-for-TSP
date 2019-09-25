@@ -1,6 +1,9 @@
 #!/bin/bash
 # author: 
 make
+unzip instances/tsp100_test_concorde.zip
+cp -r tsp100_test_concorde.txt ./instances
+rm -r tsp100_test_concorde.txt
 STARTTIME=$(date +%s)
 tsp=("./instances/tsp100_test_concorde.txt")
 instancenum=(100)
