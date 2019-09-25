@@ -8,4 +8,4 @@ cd TSPLib
 bash solve-tsplib.sh
 ```
 
- 
+And the results file `Statistic_Results.txt` could be checked in `code`.
