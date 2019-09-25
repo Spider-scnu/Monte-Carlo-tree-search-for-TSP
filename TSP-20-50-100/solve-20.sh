@@ -1,6 +1,7 @@
 #!/bin/bash
 # author: 
 make
+
 STARTTIME=$(date +%s)
 tsp=("./instances/tsp20_test_concorde.txt")
 instancenum=(20)
