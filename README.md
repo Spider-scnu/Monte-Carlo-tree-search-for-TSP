@@ -2,7 +2,7 @@
 This is the source code for solving the Traveling Salesman Problems (TSP) using **Monte Carlo tree search (MCTS)**.
 
 ### Paper
-If you want to get more details, please see our paper [XXXXX](https://github.com/wouterkool/attention-learn-to-route). 
+If you want to get more details, please see our paper [Targeted sampling of enlarged neighborhood via Monte Carlo tree search for TSP](https://github.com/wouterkool/attention-learn-to-route). 
 
 ### Dependencies
 
