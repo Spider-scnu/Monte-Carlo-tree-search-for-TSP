@@ -7,7 +7,7 @@ If you want to get more details, please see our paper **Targeted sampling of enl
 ### Dependencies
 
 * gcc >= 4.8.5
-* Linux
+* Computing platform : Linux
 
 ### Quick start
 
