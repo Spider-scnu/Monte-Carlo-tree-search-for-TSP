@@ -2,7 +2,7 @@
 This is the source code for solving the Traveling Salesman Problems (TSP) using **Monte Carlo tree search (MCTS)**.
 
 ### Paper
-If you want to get more details, please see our paper [Targeted sampling of enlarged neighborhood via Monte Carlo tree search for TSP](https://github.com/wouterkool/attention-learn-to-route). 
+If you want to get more details, please see our paper **Targeted sampling of enlarged neighborhood via Monte Carlo tree search for TSP**. 
 
 ### Dependencies
 
@@ -37,7 +37,7 @@ cd TSP-20-50-100
 bash solve-20.sh 32
 ```
 
-By the way, our speeding schemes only apply in **TSP-20-50-100** dataset, not in **TSPLib** instances. 
+By the way, our multi-threading schemes only apply in **TSP-20-50-100** dataset, not in **TSPLib** instances. In addition, others shells could be found respectively in `TSP-20-50-100` and `TSPLib`. 
 
 #### Acknowledgements
 
